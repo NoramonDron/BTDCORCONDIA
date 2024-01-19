@@ -1,5 +1,5 @@
 # BTDCORCONDIA
 Matlab function for BTD LL1 core consistency diagnosis
-The code will be available here soon.
+The prototype code is available in 'btd_corcond.m'.
 
 This is part of the work in https://arxiv.org/abs/2312.11151
